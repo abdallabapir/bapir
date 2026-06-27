@@ -32,4 +32,4 @@ The purpose of this project is to practise:
 
 ## 👨‍💻 Author
 
-Created by **Abdalla Bapir** (Using AI 😁).
+Created by **Abdalla Bapir**.
