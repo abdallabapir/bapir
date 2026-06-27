@@ -28,7 +28,7 @@ The purpose of this project is to practise:
 
 ## 🚀 Live Preview
 
-(Add your GitHub Pages link here once your website is published.)
+https://abdallabapir.github.io/bapir/
 
 ## 👨‍💻 Author
 
